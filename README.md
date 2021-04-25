@@ -4,6 +4,8 @@ Patching some unimplemented wine calls.
 
 ## Build
 
+change the Game Directory in `SpaceEngineersPath.props` and:
+
 ```sh
 sudo apt install mono-complete
 xbuild /p:Configuration=Release
