@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geoplugin", "geoplugin\geoplugin.csproj", "{1EE82199-E708-4D67-A670-8837A5712064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE82199-E708-4D67-A670-8837A5712064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE82199-E708-4D67-A670-8837A5712064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE82199-E708-4D67-A670-8837A5712064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE82199-E708-4D67-A670-8837A5712064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2BE3490-BF7E-42C0-916E-E3B68B9EDB1C}
+	EndGlobalSection
+EndGlobal
