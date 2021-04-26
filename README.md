@@ -7,7 +7,8 @@ Patching some unimplemented wine calls.
 change the Game Directory in `SpaceEngineersPath.props` and:
 
 ```sh
-sudo apt install mono-complete
+sudo apt install mono-complete nuget
+nuget install geoplugin/packages.config -OutputDirectory packages
 xbuild /p:Configuration=Release
 ```
 
