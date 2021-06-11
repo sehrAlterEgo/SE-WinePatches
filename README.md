@@ -1,8 +1,11 @@
-# SE-WinePatches
+# DEAD
+because fixed :)
+
+## SE-WinePatches
 Patching some unimplemented wine calls.
 
 
-## Build
+### Build
 
 change the Game Directory in `SpaceEngineersPath.props` and:
 
@@ -12,7 +15,7 @@ nuget install geoplugin/packages.config -OutputDirectory packages
 xbuild /p:Configuration=Release
 ```
 
-## Usage
+### Usage
 
 * copy geoplugin.dll and Harmony0.dll (from bin/release) to your game dir and run
 ```sh
